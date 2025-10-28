@@ -2,7 +2,7 @@
 SQL ad-hoc analysis for AtliQ Hardwares (consumer goods domian). MySQL queries, results, screenshots, sample data and visuals solving 10 business questions.
 ---
 
-<span style="color:#9ca3af">**--> 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region**</span> 
+<span style="color:#9ca3af">--> 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region</span> 
 ```sql
 SELECT	distinct(market) 
 FROM dim_customer
