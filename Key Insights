@@ -1,0 +1,125 @@
+#  Ad-Hoc Analysis using MySQL — AtliQ Hardwares
+
+##  Project Overview
+AtliQ Hardwares is a leading computer hardware manufacturer with global operations.  
+This ad-hoc analysis provides data-driven insights to help the management make informed strategic decisions in product planning, sales, and channel optimization.
+
+---
+
+##  Key Insights
+
+### 1️ Market Presence — *Customer: Atliq Exclusive*
+- Operates in **8 APAC markets:** India, Indonesia, Japan, Philippines, South Korea, Australia, New Zealand, and Bangladesh.  
+- Demonstrates strong geographic reach across the APAC region.
+
+---
+
+### 2️ Product Portfolio Growth
+- **2020:** 245 unique products  
+- **2021:** 334 unique products  
+- **Growth:** **+36.3 %**  
+>  Continuous product expansion reflects robust innovation and improved customer choice.
+
+---
+
+### 3️ Product Segment Distribution
+| Segment | Product Count |
+|----------|---------------|
+| Accessories | 20 |
+| Peripherals | 20 |
+| Notebook | 17 |
+| Storage | 9 |
+| Desktop | 4 |
+| Networking | 3 |
+>  *Accessories* and *Peripherals* lead in variety; *Networking* and *Desktop* have growth potential.
+
+---
+
+### 4️ Segment-wise Growth (2020 → 2021)
+| Segment | Increase in Unique Products |
+|----------|-----------------------------|
+| Accessories | +6 |
+| Peripherals | +5 |
+| Notebook | +2 |
+| Desktop | +2 |
+| Networking | +1 |
+| Storage | +1 |
+>  *Accessories* show the highest new-product growth, signaling increased R&D focus.
+
+---
+
+### 5️ Manufacturing Cost Range
+| Product | Product Code | Cost |
+|----------|---------------|------|
+| AQ HOME All-in-1 Gen 2 | A6120110206 | ₹ 240.54 (highest) |
+| AQ Master Wired x1 Ms | A2118150101 | ₹ 0.89 (lowest) |
+> Broad cost range indicates a balanced portfolio of premium and budget products.
+
+---
+
+### 6️ Top 5 Indian Customers by Avg. Discount (FY 2021)
+| Customer | Avg Discount % |
+|-----------|----------------|
+| Flipkart | 0.31 |
+| Viveks | 0.30 |
+| Croma | 0.30 |
+| Ezone | 0.30 |
+| Amazon | 0.29 |
+>  *Flipkart* receives the highest average discount — review discount strategy to optimize margins.
+
+---
+
+### 7️ Gross Sales Trend — *Atliq Exclusive*
+- **Best-performing months:** *Nov 2020* (₹ 204.6 k) and *Sep 2020* (₹ 123.5 k)  
+- **Stable 2021 performance** from Feb to Jul.  
+>  Seasonal peaks during festive periods — use for demand forecasting and inventory planning.
+
+---
+
+### 8️ Quarter-wise Sold Quantity (FY 2020)
+| Quarter | Total Qty (k) |
+|----------|---------------|
+| Q1 | 70.06 |
+| Q2 | 66.49 |
+| Q3 | 20.75 |
+| Q4 | 50.42 |
+>  *Q1 (Sept–Nov)* delivered the highest volumes — likely driven by festival sales campaigns.
+
+---
+
+### 9️ Channel Performance (FY 2021)
+| Channel | Gross Sales (M ₹) | Contribution % |
+|----------|-------------------|----------------|
+| Retailer | 1219.08 | 73.23 |
+| Direct | 257.53 | 15.47 |
+| Distributor | 188.03 | 11.30 |
+>  Retail contributes nearly three-quarters of total revenue — focus on retailer engagement and promotion efficiency.
+
+---
+
+###  Top 3 Products by Division (FY 2021)
+| Division | Top Product | Total Sold Qty |
+|-----------|-------------|----------------|
+| N & S | AQ Pen Drive 2 IN 1 | 1,159,222 |
+| P & A | AQ Gamers Ms | 683,634 |
+| PC | AQ Digit | 26,012 |
+>  *AQ Pen Drive 2 IN 1* dominates N & S division; strong revenue driver for hardware accessories.
+
+---
+
+##  Overall Summary
+- **36 % YoY growth** in unique products.  
+- **Retail** is the dominant channel (≈ 73 % of sales).  
+- **Accessories & Peripherals** lead product diversity.  
+- **Seasonality** peaks in Q1 — plan campaigns around festive demand.
+
+---
+
+##  Tools & Techniques
+- **MySQL:** CTEs, Window Functions, Aggregations, Joins  
+- **PowerPoint**
+- **GitHub:** Version Control & Portfolio Showcase  
+
+---
+
+⭐ *This project highlights analytical thinking, SQL proficiency, and storytelling with data to derive actionable business insights for AtliQ Hardwares.*
